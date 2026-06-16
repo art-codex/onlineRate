@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/art-codex/onlineRate/blob/main/logo-onlinerate.jpg" alt="OnlineRate" width="110" style="border-radius: 50px;>
+    <img src="https://github.com/art-codex/dev-py.ir/blob/main/logo-artcodex.png" alt="OnlineRate Logo" width="180">
 </p>
 
+<h1 align="center">OnlineRate</h1>
 ---
 
 
