@@ -1,2 +1,117 @@
-# onlineRate
+<p align="center">
 # 💰 online Dollar &amp; Crypto &amp; Gold Price Bot | Made For IRAN
+</p>
+
+<p align="center">
+  <img src="https://github.com/art-codex/dev-py.ir/blob/main/logo-artcodex.png" alt="OnlineRate Logo" width="180">
+  <img src="https://github.com/art-codex/dev-py.ir/blob/main/logo-onlinerate.jpg" alt="OnlineRate Logo" width="180">
+</p>
+
+<h1 align="center">OnlineRate</h1>
+
+<p align="center">
+  Real-Time Market Price Bot for Telegram & Rubika
+</p>
+
+
+
+---
+
+
+## 🚀 معرفی
+
+**OnlineRate** یک ربات هوشمند برای انتشار خودکار قیمت‌های بازار در تلگرام و روبیکا است.  
+این ربات به‌صورت ۲۴ ساعته اطلاعات بازار را از منابع معتبر دریافت کرده و قیمت‌های به‌روز را به‌طور کامل خودکار منتشر می‌کند.
+
+---
+
+## ✨ ویژگی‌ها
+
+### 🤖 دو حالت انتشار
+
+**🔄 حالت بروزرسانی (Update Mode)**  
+- فقط **یک پیام** در کانال ارسال می‌شود  
+- هر ۱۵ دقیقه اطلاعات جدید دریافت شده و **همان پیام ویرایش** می‌شود  
+- آخرین قیمت‌ها همیشه در معرض دید هستند  
+- *مناسب برای کانال‌های رسمی، جلوگیری از شلوغی کانال و نمایش دائمی آخرین قیمت‌ها*
+
+**📨 حالت پست جدید (Post Mode)**  
+- هر ۱۵ دقیقه **یک پیام جدید** منتشر می‌شود  
+- تاریخچه‌ای کامل از تغییرات بازار ثبت می‌کند  
+- *مناسب برای کانال‌های خبری، آرشیو قیمت‌ها و پیگیری روند بازار*
+
+---
+
+## 📊 داده‌های بازار
+
+- 💵 **دلار** (USD)  
+- 💲 **تتر** (USDT)  
+- ₿ **بیت کوین** (Bitcoin)  
+- 🏆 **طلای ۱۸ عیار**  
+- 🥇 **طلای آبشده**  
+- ✨ **طلای بدون حباب**  
+- 🌍 **انس جهانی طلا**
+
+---
+
+## امکانات ویژه
+
+- 📅 تاریخ شمسی  
+- 🕒 ساعت ایران  
+- 🔤 فرمت فارسی اعداد  
+- 🔘 دکمه‌های شیشه‌ای (Glass buttons)  
+- ✅ پشتیبانی از **تلگرام**  
+- ✅ پشتیبانی از **روبیکا**
+
+---
+
+## 🛡️ پایداری
+
+- مدیریت کامل خطاها  
+- بازیابی خودکار در صورت قطع ارتباط  
+- کاملاً مناسب اجرا روی **VPS**  
+- اجرای ۲۴ ساعته بدون وقفه
+
+---
+
+## 📱 نمونه خروجی
+💰 انس جهانی: 2,345.67
+💵 تتر: 170,300
+🏆 طلا ۱۸ عیار: 17,800,000
+🥇 آبشده بدون حباب: 4,120,000
+₿ بیت کوین: 67,500
+
+🗓️ تاریخ: ۱۴۰۳/۰۹/۲۰
+⏱️ ساعت: ۲۰:۴۵
+
+
+
+---
+
+## 🛠️ تکنولوژی‌ها
+
+- Python  
+- Requests  
+- BeautifulSoup4  
+- jdatetime  
+- pytz  
+- Telegram Bot API  
+- Rubika API
+
+---
+
+## 🚀 نصب و اجرا
+
+```
+git clone https://github.com/art-codex/onlineRate.git
+cd onlineRate
+pip install -r requirements.txt
+python bot.py
+```
+
+---
+
+🌐 Website
+🔗 https://dev-py.ir
+
+<p align="center"> Made with ❤️ by Art Codex </p> 
